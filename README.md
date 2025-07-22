@@ -57,5 +57,5 @@ src/
 └── index.js # Main render with Redux Provider
 
 ```bash
-git clone https://github.com/yourusername/product-dashboard.git
+git clone https://github.com/dograrajesh369/product-dashboard.git
 cd product-dashboard
